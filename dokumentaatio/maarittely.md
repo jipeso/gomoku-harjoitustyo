@@ -13,6 +13,7 @@ Pelaaja pystyy pelaamaan tekoälyä vastaan käyttöliittymän kautta. Minimax-a
 - Projektissa toteutettavat algoritmit
   - Seuraavan siirron laskeva minimax-algoritmi, jota on tehostettu alpha-beta-karsinnalla
   - Voiton tarkistus-algoritmi
+  - Heuristinen funktio
 - Ratkaistava ongelma on luoda tekoäly, joka pystyy tehokkaasti pelaamaan Gomoku-peliä käyttöliittymän kautta.
 - Ohjelma saa pelaajan siirron syötteenä ja laskee optimaalisen siirron tehokkaasti.
 - Aikavaatimus alpha-beta karsinnalla tehostetulle minimax-algoritmille on parhaassa tapauksessa $O(\sqrt{b^d})$ ja
